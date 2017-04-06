@@ -1,0 +1,9 @@
+Y:\Works\Developments\VisualStudioWorkplace\VS2015\RS232WindowFormTest\RS232WindowFormTest\bin\Debug\RS232WindowFormTest.exe.config
+Y:\Works\Developments\VisualStudioWorkplace\VS2015\RS232WindowFormTest\RS232WindowFormTest\bin\Debug\RS232WindowFormTest.exe
+Y:\Works\Developments\VisualStudioWorkplace\VS2015\RS232WindowFormTest\RS232WindowFormTest\bin\Debug\RS232WindowFormTest.pdb
+Y:\Works\Developments\VisualStudioWorkplace\VS2015\RS232WindowFormTest\RS232WindowFormTest\obj\Debug\RS232WindowFormTest.Form1.resources
+Y:\Works\Developments\VisualStudioWorkplace\VS2015\RS232WindowFormTest\RS232WindowFormTest\obj\Debug\RS232WindowFormTest.Properties.Resources.resources
+Y:\Works\Developments\VisualStudioWorkplace\VS2015\RS232WindowFormTest\RS232WindowFormTest\obj\Debug\RS232WindowFormTest.csproj.GenerateResource.Cache
+Y:\Works\Developments\VisualStudioWorkplace\VS2015\RS232WindowFormTest\RS232WindowFormTest\obj\Debug\RS232WindowFormTest.exe
+Y:\Works\Developments\VisualStudioWorkplace\VS2015\RS232WindowFormTest\RS232WindowFormTest\obj\Debug\RS232WindowFormTest.pdb
+Y:\Works\Developments\VisualStudioWorkplace\VS2015\RS232WindowFormTest\RS232WindowFormTest\obj\Debug\RS232WindowFormTest.csprojResolveAssemblyReference.cache
